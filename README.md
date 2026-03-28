@@ -14,10 +14,3 @@ A console-based Bank Management System built using Core Java.
 - Java (Core)
 - OOP Concepts (Classes, Objects, Inheritance, Encapsulation)
 
-## How to Run
-1. Clone the repository
-2. Open in Eclipse or VS Code
-3. Run `Main.java`
-
-## Author
-Poovizhi R | Chennai | poovizhiraja306@gmail.com
